@@ -16,6 +16,7 @@
 		0B62818F235DF01000E35CAF /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B62818E235DF01000E35CAF /* LoginViewController.swift */; };
 		0B628191235DF01B00E35CAF /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B628190235DF01B00E35CAF /* ChatViewController.swift */; };
 		0B62819E235F0F4D00E35CAF /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0B62819D235F0F4D00E35CAF /* README.md */; };
+		BB07F112252D45E2001D6C30 /* ezgif.com-gif-maker.gif in Resources */ = {isa = PBXBuildFile; fileRef = BB07F111252D45E2001D6C30 /* ezgif.com-gif-maker.gif */; };
 		BB23BA5A2528BF7D00ED384D /* Montserrat-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = BB23BA532528BF7A00ED384D /* Montserrat-Black.otf */; };
 		BB23BA5B2528BF7D00ED384D /* Montserrat-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = BB23BA542528BF7A00ED384D /* Montserrat-SemiBold.otf */; };
 		BB23BA5C2528BF7D00ED384D /* Montserrat-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = BB23BA552528BF7B00ED384D /* Montserrat-Bold.otf */; };
@@ -52,6 +53,7 @@
 		0B62819D235F0F4D00E35CAF /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		45259EAF5FD2C2B33C53B0CC /* Pods_Flash_Chat_iOS13.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Flash_Chat_iOS13.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F03ADECF122BB7066626C1C /* Pods-Flash Chat iOS13.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flash Chat iOS13.debug.xcconfig"; path = "Target Support Files/Pods-Flash Chat iOS13/Pods-Flash Chat iOS13.debug.xcconfig"; sourceTree = "<group>"; };
+		BB07F111252D45E2001D6C30 /* ezgif.com-gif-maker.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "ezgif.com-gif-maker.gif"; sourceTree = "<group>"; };
 		BB23BA532528BF7A00ED384D /* Montserrat-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Black.otf"; sourceTree = "<group>"; };
 		BB23BA542528BF7A00ED384D /* Montserrat-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.otf"; sourceTree = "<group>"; };
 		BB23BA552528BF7B00ED384D /* Montserrat-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.otf"; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 			children = (
 				BB2BA3EB2526B351006ACDFA /* Constants.swift */,
 				0B62819D235F0F4D00E35CAF /* README.md */,
+				BB07F111252D45E2001D6C30 /* ezgif.com-gif-maker.gif */,
 				0B628175235DEE8100E35CAF /* Flash Chat iOS13 */,
 				0B628174235DEE8100E35CAF /* Products */,
 				415C3FA201DED202EC47BDB9 /* Pods */,
@@ -261,6 +264,7 @@
 				BB2EC3162528D98700018A4E /* Head.pdf in Resources */,
 				BB23BA5B2528BF7D00ED384D /* Montserrat-SemiBold.otf in Resources */,
 				BB2EC31D2528E09200018A4E /* undraw_Profile_data_re_v81r (1).svg in Resources */,
+				BB07F112252D45E2001D6C30 /* ezgif.com-gif-maker.gif in Resources */,
 				BB2BA3F82526C480006ACDFA /* MessageCell.xib in Resources */,
 				BBB41E7F252915E100A8E513 /* chatjs.json in Resources */,
 				BB23BA602528BF7D00ED384D /* Montserrat-Light.otf in Resources */,
